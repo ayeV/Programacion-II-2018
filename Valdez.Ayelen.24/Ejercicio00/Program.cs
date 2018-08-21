@@ -10,14 +10,23 @@ namespace Ejercicio00
     {
         static void Main(string[] args)
         {
-            string nombre;
-            Console.WriteLine("Ingrese nombre: ");
-            nombre = Console.ReadLine();
-           // Console.WriteLine(nombre);
-            Console.WriteLine("Su nombre es: {0}", nombre);
 
+            string nombre = Console.ReadLine();
+            int edad = int.Parse(Console.ReadLine());
             
-              
+
+            Console.WriteLine("Ingrese nombre: ");
+            Console.WriteLine("Ingrese edad: ");
+
+
+
+            // Console.WriteLine(nombre);
+            Console.WriteLine("Su nombre es: {0}", nombre);
+            Console.WriteLine("Edad es: {0}", edad);
+
+
+
+
             Console.ReadLine();
         }
     }
