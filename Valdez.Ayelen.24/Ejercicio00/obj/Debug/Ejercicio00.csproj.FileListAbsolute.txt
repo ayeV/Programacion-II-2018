@@ -1,0 +1,7 @@
+D:\VisualStudio\Valdez.Ayelen.24\Ejercicio00\bin\Debug\Ejercicio00.exe.config
+D:\VisualStudio\Valdez.Ayelen.24\Ejercicio00\bin\Debug\Ejercicio00.exe
+D:\VisualStudio\Valdez.Ayelen.24\Ejercicio00\bin\Debug\Ejercicio00.pdb
+D:\VisualStudio\Valdez.Ayelen.24\Ejercicio00\obj\Debug\Ejercicio00.csprojAssemblyReference.cache
+D:\VisualStudio\Valdez.Ayelen.24\Ejercicio00\obj\Debug\Ejercicio00.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Valdez.Ayelen.24\Ejercicio00\obj\Debug\Ejercicio00.exe
+D:\VisualStudio\Valdez.Ayelen.24\Ejercicio00\obj\Debug\Ejercicio00.pdb
