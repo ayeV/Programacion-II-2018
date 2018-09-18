@@ -1,0 +1,4 @@
+1)abrir como administrador el prompt de visual studio
+2)CD hacia C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\PublicAssemblies
+3)ejecutar gacutil -i Microsoft.VisualStudio.Shell.Interop.11.0.dll
+4)reiniciar el visual studio
