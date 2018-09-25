@@ -1,0 +1,6 @@
+D:\VisualStudio\2017.Arrays\2017.Arrays\bin\Debug\2017.Arrays.exe.config
+D:\VisualStudio\2017.Arrays\2017.Arrays\bin\Debug\2017.Arrays.exe
+D:\VisualStudio\2017.Arrays\2017.Arrays\bin\Debug\2017.Arrays.pdb
+D:\VisualStudio\2017.Arrays\2017.Arrays\obj\Debug\2017.Arrays.csprojResolveAssemblyReference.cache
+D:\VisualStudio\2017.Arrays\2017.Arrays\obj\Debug\2017.Arrays.exe
+D:\VisualStudio\2017.Arrays\2017.Arrays\obj\Debug\2017.Arrays.pdb
