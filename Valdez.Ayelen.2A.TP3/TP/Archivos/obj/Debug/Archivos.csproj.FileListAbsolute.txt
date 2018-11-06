@@ -1,0 +1,6 @@
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Archivos\obj\Debug\Archivos.pdb

@@ -1,0 +1,16 @@
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\Valdez.Ayelen.2A.TP3.exe.config
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\Valdez.Ayelen.2A.TP3.exe
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\Valdez.Ayelen.2A.TP3.pdb
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\Archivos.dll
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\ClasesAbstractas.dll
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\ClasesInstanciables.dll
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\Excepciones.dll
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\Archivos.pdb
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\ClasesAbstractas.pdb
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\ClasesInstanciables.pdb
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\bin\Debug\Excepciones.pdb
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\obj\Debug\Valdez.Ayelen.2A.TP3.csprojAssemblyReference.cache
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\obj\Debug\Valdez.Ayelen.2A.TP3.csproj.CoreCompileInputs.cache
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\obj\Debug\Valdez.Ayelen.2A.TP3.csproj.CopyComplete
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\obj\Debug\Valdez.Ayelen.2A.TP3.exe
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP3\Valdez.Ayelen.2A.TP3\obj\Debug\Valdez.Ayelen.2A.TP3.pdb
