@@ -1,0 +1,14 @@
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\bin\Debug\Entidades.dll.config
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb

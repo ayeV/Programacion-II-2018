@@ -1,0 +1,7 @@
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\ayele\Desktop\Valdez.Ayelen.2A.TP4\Entidades\obj\Debug\Entidades.pdb
