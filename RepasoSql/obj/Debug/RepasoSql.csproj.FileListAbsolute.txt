@@ -1,0 +1,7 @@
+C:\Users\ayele\Desktop\Prog 2\ProyectosDeRepaso\RepasoSql\bin\Debug\RepasoSql.exe.config
+C:\Users\ayele\Desktop\Prog 2\ProyectosDeRepaso\RepasoSql\bin\Debug\RepasoSql.exe
+C:\Users\ayele\Desktop\Prog 2\ProyectosDeRepaso\RepasoSql\bin\Debug\RepasoSql.pdb
+C:\Users\ayele\Desktop\Prog 2\ProyectosDeRepaso\RepasoSql\obj\Debug\RepasoSql.csprojAssemblyReference.cache
+C:\Users\ayele\Desktop\Prog 2\ProyectosDeRepaso\RepasoSql\obj\Debug\RepasoSql.csproj.CoreCompileInputs.cache
+C:\Users\ayele\Desktop\Prog 2\ProyectosDeRepaso\RepasoSql\obj\Debug\RepasoSql.exe
+C:\Users\ayele\Desktop\Prog 2\ProyectosDeRepaso\RepasoSql\obj\Debug\RepasoSql.pdb
